@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatelMeet4744
 - 👀 I’m interested in music,coding
-- 🌱 I’m learn in UKA TARSADIA UNIVERSITY
+- 🌱 I’m studying in UKA TARSADIA UNIVERSITY
 
 <!---
 PatelMeet4744/PatelMeet4744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
